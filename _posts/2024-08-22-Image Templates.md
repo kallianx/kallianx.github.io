@@ -1,0 +1,21 @@
+---
+title: [Image Templates]
+date: 2024-08-22 12:00:00 +1000
+categories: [Images]
+tags: [Cat] # TAG names should always be lowercase
+author:  # for single entry
+description: Image Template
+---
+## photography
+<div class="pswp-gallery" id="my-gallery">
+  <a href="assets\img\DobbyIMG_5995.jpg">
+    <img src="assets\img\Dobby\IMG_5995.jpg">
+  </a>
+</div>
+
+## Image
+<div class="pswp-gallery" id="my-gallery">
+  <a href="assets\img\DobbyIMG_6239.JPEG">
+    <img src="assets\img\Dobby\IMG_6239.JPEG">
+  </a>
+</div>

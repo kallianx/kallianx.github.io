@@ -6,6 +6,26 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: https://instagram.com/kallianx
+
+- type: weibo
+  icon: "fa-brands fa-weibo"
+  url: https://weibo.com/kaon312
+
+- type: steam
+  icon: "fa-brands fa-steam"
+  url: https://steamcommunity.com/id/kaallianx
+
+- type: youtube
+  icon: "fa-brands fa-youtube"
+  url: https://youtube.com/@kallianx
+
+- type: bilibili
+  icon: "fa-brands fa-bilibili"
+  url: https://space.bilibili.com/572967374
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab

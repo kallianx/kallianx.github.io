@@ -7,3 +7,6 @@ gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 group :test do
   gem "html-proofer", "~> 5.0"
 end
+
+gem "gem", "~> 0.0.1.alpha", :group => :":jekyll_plugin"
+gem "exifr", "~> 1.4", :group => :":jekyll_plugin"
