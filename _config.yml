@@ -169,7 +169,7 @@ pwa:
 paginate: 4
 
 # The base URL of your site
-baseurl: "kallianx.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
