@@ -34,4 +34,4 @@ Cyberpunk 2077: Phantom Liberty
 
 Dobby was born around March 26, 2021. She is a blue Abyssinian with an elegant, powerful body and heavenly soft fur. She is my first and only chosen family member; we belong each other. I hope she loves me as I do her, just perhaps with more hugs and nuzzles and fewer scratches and bites.<br>
 Dobby is now with my parents in my homeland and I miss her every night when I'm alone in bed, and I'm waiting for the day we can be together again.<br>
-<img src="assets\img\Dobby\IMG_7365.JPEG">
+<img src="/assets/img/Dobby/IMG_7365.JPEG">

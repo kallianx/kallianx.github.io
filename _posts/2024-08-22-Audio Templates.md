@@ -9,7 +9,7 @@ description: Audio Template
 
 {%
   include embed/audio.html
-  src='assets/aud/IMG_1297.mp3'
+  src='/assets/aud/IMG_1297.mp3'
   types='mp3'
   title='Mojito - Jay Chou drum.ver'
 %}
