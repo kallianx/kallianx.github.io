@@ -2,7 +2,7 @@
 title: [Playing with GarageBand]
 date: 2024-10-03 01:00:00 +1000
 categories: [Audio]
-tags: [Drums] [GarageBand] [Experiment] # TAG names should always be lowercase
+tags: [drums, garageband] # TAG names should always be lowercase
 author:  # for single entry
 description: GarageBand Experiments 
 ---
