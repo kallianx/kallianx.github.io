@@ -1,10 +1,10 @@
 ---
-title: [Audio Templates]
+title: [Playing with GarageBand]
 date: 2024-10-03 01:00:00 +1000
 categories: [Audio]
-tags: [Drums] # TAG names should always be lowercase
+tags: [Drums] [GarageBand] [Experiment] # TAG names should always be lowercase
 author:  # for single entry
-description: Audio Template
+description: GarageBand Experiments 
 ---
 
 {%
