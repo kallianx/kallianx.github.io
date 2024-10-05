@@ -1,7 +1,7 @@
 ---
 title: [Playing with GarageBand]
 date: 2024-10-03 00:45:00 +1000
-categories: [Audio]
+categories: [Audios]
 tags: [Drums, GarageBand] # TAG names should always be lowercase
 author:  # for single entry
 description: GarageBand Experiments 
