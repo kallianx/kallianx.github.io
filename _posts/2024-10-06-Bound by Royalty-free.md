@@ -1,11 +1,11 @@
 ---
-title: [Video Templates]
+title: [Bound by Royalty-free]
 date: 2024-10-06 01:00:00 +1000
 categories: [Videos]
 tags: [Sync] # TAG names should always be lowercase
 author:  # for single entry
-image: -
-description: Video Template
+image: #-
+description: Bound by Royalty-free
 ---
 
 >### Basic sync to the beat practice
