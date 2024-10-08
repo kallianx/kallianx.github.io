@@ -7,6 +7,10 @@ author:  # for single entry
 description: Image Template
 ---
 ## Photography
+
+![Victoria Harbour](/assets/img/Photography/01.JPG){: lqip="/path/to/lqip-file"  width="700" }
+
+
 <div class="pswp-gallery" id="my-gallery">
   <a href="/assets/img/Photography/01.JPG">
     <img src="/assets/img/Photography/01.JPG" alt="Victoria Harbour">
