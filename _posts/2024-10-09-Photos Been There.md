@@ -4,8 +4,7 @@ date: 2024-10-09 07:00:00 +1000
 categories: [Image]
 tags: [Photography, SE, 12pro] # TAG names should always be lowercase
 author:  # for single entry
-description: Image Template
----
+description: Photos I took from the places I was.
 
 ## Photography
 <div class="pswp-gallery" id="my-gallery">

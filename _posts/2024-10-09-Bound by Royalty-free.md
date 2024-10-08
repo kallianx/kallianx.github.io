@@ -5,7 +5,7 @@ categories: [Video]
 tags: [Sync, Color Grading, Transition] # TAG names should always be lowercase
 author:  # for single entry
 image: #-
-description: Bound by Royalty-free
+description: Thanks to the royalty-free rules, I made them just to throw them in the bin later.
 ---
 
 >### Basic sync to the beat practice
