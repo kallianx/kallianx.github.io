@@ -20,9 +20,9 @@ description: Bound by Royalty-free
 %}
 
 This video features the song "Realization" by A. Cooper, available under a Attribution 4.0 International License.
-https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-iv/realization/
+[https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-iv/realization/](https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-iv/realization/)
 This video features the sound effect "Machine Gun 002 - triple shot" by pgi, available under a Creative Commons 0 International License.
-https://freesound.org/s/212606/
+[https://freesound.org/s/212606/](https://freesound.org/s/212606/)
 
 ---
 >### Sync 2 beat practice 2
@@ -37,7 +37,7 @@ https://freesound.org/s/212606/
 %}
 
 This video features the song "Tough Girls" by A. Cooper, available under a Attribution 4.0 International License.
-https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-vi/tough-girls/
+[https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-vi/tough-girls/](https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-vi/tough-girls/)
 
 ---
 >### Basic color grading practice
@@ -52,7 +52,7 @@ https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-vi/tough-girl
 %}
 
 This video features the song "Flowing Down a River" by Unheard Music Concepts, available under a Attribution 4.0 International License.
-https://freemusicarchive.org/music/Unheard_Music_Concepts/Slow/09_Flowing_Down_a_River/
+[https://freemusicarchive.org/music/Unheard_Music_Concepts/Slow/09_Flowing_Down_a_River/](https://freemusicarchive.org/music/Unheard_Music_Concepts/Slow/09_Flowing_Down_a_River/)
 
 ---
 >### Basic Transition Practice
@@ -67,4 +67,4 @@ https://freemusicarchive.org/music/Unheard_Music_Concepts/Slow/09_Flowing_Down_a
 %}
 
 This video features the song "RF10-Lounging in Lisbon" by legacyAlli, available under a Attribution 4.0 International License.
-https://freemusicarchive.org/music/legacyalli/2023-royalty-free-by-legacyalli/rf10-lounging-in-lisbon/
+[https://freemusicarchive.org/music/legacyalli/2023-royalty-free-by-legacyalli/rf10-lounging-in-lisbon/](https://freemusicarchive.org/music/legacyalli/2023-royalty-free-by-legacyalli/rf10-lounging-in-lisbon/)
