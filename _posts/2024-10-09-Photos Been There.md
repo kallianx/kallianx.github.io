@@ -22,11 +22,11 @@ _Hogwarts_
 _Hogwarts Dungeon_
 ![Desktop View](/assets/img/Photography/07.JPG){: width="400" }
 _The Bund_
-![Desktop View](/assets/img/Photography/08.JPG){: width="400" }
+![Desktop View](/assets/img/Photography/08.jgp){: width="400" }
 _My Coffee_
-![Desktop View](/assets/img/Photography/09.JPG){: width="400" }
+![Desktop View](/assets/img/Photography/09.jpg){: width="400" }
 _Liwan Hu_
-![Desktop View](/assets/img/Photography/10.JPG){: width="400" }
+![Desktop View](/assets/img/Photography/10.jpg){: width="400" }
 _Dawn_
-![Desktop View](/assets/img/Photography/11.JPG){: width="400" }
+![Desktop View](/assets/img/Photography/11.jpg){: width="400" }
 _Dusk_
