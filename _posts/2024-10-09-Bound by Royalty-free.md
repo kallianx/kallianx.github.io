@@ -21,6 +21,7 @@ description: Thanks to the royalty-free rules, I made them just to throw them in
 
 This video features the song "Realization" by A. Cooper, available under a Attribution 4.0 International License.
 [https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-iv/realization/](https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm-iv/realization/)
+
 This video features the sound effect "Machine Gun 002 - triple shot" by pgi, available under a Creative Commons 0 International License.
 [https://freesound.org/s/212606/](https://freesound.org/s/212606/)
 
