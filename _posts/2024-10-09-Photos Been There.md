@@ -8,7 +8,9 @@ description: Image Template
 ---
 ## Photography
 
-![Victoria Harbour](/assets/img/Photography/01.JPG){: lqip="/path/to/lqip-file"  width="700" }
+image:
+  path: /assets/img/Photography/01.JPG
+  alt: Victoria Harbour
 
 
 <div class="pswp-gallery" id="my-gallery">
