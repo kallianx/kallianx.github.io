@@ -52,5 +52,5 @@ description: Image Template
   <a href="/assets/img/Photography/11.jpg">
     <img src="/assets/img/Photography/11.jpg" alt="Dusk">
   </a>
-  <p center><b>Dusk</b></p>
+  <p style="text-align: center;"><b>Dusk</b></p>
 </div>
