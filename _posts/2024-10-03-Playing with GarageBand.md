@@ -4,6 +4,7 @@ date: 2024-10-03 00:45:00 +1000
 categories: [Audio]
 tags: [Drums, GarageBand] # TAG names should always be lowercase
 author:  # for single entry
+image: /assets/img/cover/Playing-with-GarageBand-10.3.jpg
 description: GarageBand Experiments.
 ---
 
