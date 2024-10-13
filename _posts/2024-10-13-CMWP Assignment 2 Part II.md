@@ -70,14 +70,22 @@ From the perspective of platform capitalism and open-source data concepts, my si
 
 >### Media Project Process
 
-![Desktop View](/assets/img/Process/Video-01.jpg){: w="600" }
-![Desktop View](/assets/img/Process/Video-02.jpg){: w="600" }
-![Desktop View](/assets/img/Process/Video-03.jpg){: w="600" }
-![Desktop View](/assets/img/Process/Video-04.jpg){: w="600" }
+![Desktop View](/assets/img/Process/Video-01.jpg){: w="500" }
+![Desktop View](/assets/img/Process/Video-02.jpg){: w="500" }
+![Desktop View](/assets/img/Process/Video-03.jpg){: w="500" }
+![Desktop View](/assets/img/Process/Video-04.jpg){: w="500" }
 _Screenshots of Video project files_
-![Desktop View](/assets/img/Process/Audio-01.png){: w="600" }
-![Desktop View](/assets/img/Process/Audio-02.png){: w="600" }
+![Desktop View](/assets/img/Process/Audio-01.png){: w="500" }
+![Desktop View](/assets/img/Process/Audio-02.png){: w="500" }
 _Screenshots of Audio project files_
+
+>### Website Process
+
+![Desktop View](/assets/img/Process/GitHub-01.jpg){: w="500" }
+![Desktop View](/assets/img/Process/GitHub-02.jpg){: w="500" }
+![Desktop View](/assets/img/Process/GitHub-03.jpg){: w="500" }
+![Desktop View](/assets/img/Process/GitHub-04.jpg){: w="500" }
+_Screenshots of Website GitHub files_
 
 >### Most Used Git Command
 
