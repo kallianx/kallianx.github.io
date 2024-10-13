@@ -79,18 +79,119 @@ _Screenshots of Video project files_
 ![Desktop View](/assets/img/Process/Audio-02.png){: w="600" }
 _Screenshots of Audio project files_
 
->### Website map
-
 >### Most Used Git Command
 
 ```ruby
 bundle exec jekyll serve
 ```
-
 ```sh
 git commit -m "update notes"
 ```
-
 ```sh
 git push origin main
+```
+
+
+>### Website map
+
+```xml
+# This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://kallianx.github.io/posts/Playing-with-GarageBand/</loc>
+<lastmod>2024-10-10T19:22:24+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/posts/Bound-by-Royalty-free/</loc>
+<lastmod>2024-10-13T07:41:02+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/posts/Photos-Been-There/</loc>
+<lastmod>2024-10-13T07:08:01+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/posts/Treasure/</loc>
+<lastmod>2024-10-13T06:42:11+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/posts/CMWP-Assignment-2-Part-II/</loc>
+<lastmod>2024-10-13T07:54:02+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/categories/</loc>
+<lastmod>2024-10-13T07:54:34+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/</loc>
+<lastmod>2024-10-13T07:54:34+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/archives/</loc>
+<lastmod>2024-10-13T07:54:34+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/about/</loc>
+<lastmod>2024-10-13T07:54:34+00:00</lastmod>
+</url>
+<url>
+<loc>https://kallianx.github.io/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/drums/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/garageband/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/color-grading/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/sync/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/transition/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/photography/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/se/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/12pro/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/bilibili/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/youtube/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/x/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/twitter/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/rmit/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/assignment/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/tags/cmwp/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/categories/audio/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/categories/video/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/categories/image/</loc>
+</url>
+<url>
+<loc>https://kallianx.github.io/categories/else/</loc>
+</url>
+</urlset>
 ```
