@@ -2,7 +2,7 @@
 title: [Bound by Royalty-free]
 date: 2024-10-09 06:00:00 +1000
 categories: [Video]
-tags: [Sync, Color Grading, Transition] # TAG names should always be lowercase
+tags: [Color Grading, Sync, Transition] # TAG names should always be lowercase
 author:  # for single entry
 image: /assets/img/cover/Bound-by-Royalty-free-10.9.jpg
 description: Thanks to the royalty-free rules, I made them just to throw them in the bin later.
