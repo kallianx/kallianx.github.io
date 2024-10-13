@@ -98,6 +98,9 @@ git commit -m "update notes"
 ```sh
 git push origin main
 ```
+```sh
+git stage
+```
 
 
 >### Website map
