@@ -72,8 +72,8 @@ This video features the song "RF10-Lounging in Lisbon" by legacyAlli, available 
 
 The videos above are from pexels, pixabay and mixkit, and are all used under a free licence.
 ![Desktop View](/assets/img/cover/Free-License-01.jpg)
-<p>Source: <a href="https://www.pexels.com/license/">https://www.pexels.com/license/</a></p>
+<p>License: <a href="https://www.pexels.com/license/">https://www.pexels.com/license/</a></p>
 ![Desktop View](/assets/img/cover/Free-License-02.jpg)
-<p>Source: <a href="https://pixabay.com/service/license-summary/">https://pixabay.com/service/license-summary/</a></p>
+<p>License: <a href="https://pixabay.com/service/license-summary/">https://pixabay.com/service/license-summary/</a></p>
 ![Desktop View](/assets/img/cover/Free-License-03.jpg)
-<p>Source: <a href="https://mixkit.co/license/#videoFree">https://mixkit.co/license/#videoFree</a></p>
+<p>License: <a href="https://mixkit.co/license/#videoFree">https://mixkit.co/license/#videoFree</a></p>
