@@ -69,3 +69,11 @@ This video features the song "Flowing Down a River" by Unheard Music Concepts, a
 
 This video features the song "RF10-Lounging in Lisbon" by legacyAlli, available under a Attribution 4.0 International License.
 [https://freemusicarchive.org/music/legacyalli/2023-royalty-free-by-legacyalli/rf10-lounging-in-lisbon/](https://freemusicarchive.org/music/legacyalli/2023-royalty-free-by-legacyalli/rf10-lounging-in-lisbon/)
+
+The videos above are from pexels, pixabay and mixkit, and are all used under a free licence.
+![Desktop View](/assets/img/cover/Free-License-01.jpg)
+<p>Source: <a href="https://www.pexels.com/license/">https://www.pexels.com/license/</a></p>
+![Desktop View](/assets/img/cover/Free-License-02.jpg)
+<p>Source: <a href="https://pixabay.com/service/license-summary/">https://pixabay.com/service/license-summary/</a></p>
+![Desktop View](/assets/img/cover/Free-License-03.jpg)
+<p>Source: <a href="https://mixkit.co/license/#videoFree">https://mixkit.co/license/#videoFree</a></p>
