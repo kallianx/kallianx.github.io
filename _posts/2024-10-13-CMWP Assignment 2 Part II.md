@@ -80,3 +80,17 @@ _Screenshots of Video project files_
 _Screenshots of Audio project files_
 
 >### Website map
+
+>### Most Used Git Command
+
+```ruby
+bundle exec jekyll serve
+```
+
+```sh
+git commit -m "update notes"
+```
+
+```sh
+git push origin main
+```
